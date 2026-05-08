@@ -1,0 +1,11 @@
+pregunta 1:
+respuesta: B (ejecutar comandos para interactuar con el sistema)
+
+pregunta 2:
+respuesta: B (Muestra la ubicación actual dentro del sistema de carpetas)
+
+pregunta 3:
+respuesta: C 
+ 
+pregunta 4: 
+repuesta: B

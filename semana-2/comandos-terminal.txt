@@ -1,0 +1,17 @@
+cd
+cd ..
+ls
+mkdir semana-2
+touch preguntas-semana2.txt   comandos-terminal.txt  reflexion-semana2.txt
+notepad
+pwd
+cat  
+git push 
+git add .
+git commit -m ""
+clear
+git init 
+git remote add origin
+git status
+
+
